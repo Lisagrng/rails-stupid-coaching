@@ -13,3 +13,13 @@
  *= require_tree .
  *= require_self
  */
+/* @import url("../../views/questions/ask.html.erb"); */
+.input-button {
+  display: flex;
+  border-radius: 5px;
+  padding: 0;
+}
+
+.input {
+  box-sizing: border-box;
+}
